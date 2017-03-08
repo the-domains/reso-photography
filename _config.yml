@@ -1,0 +1,79 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.20400044484995306
+  lightness: 0.2621190235950053
+  saturation: 0.9982029751408845
+  rhythmicContrast: 0.6084230397827923
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: RESO PHOTOGRAPHY
+layout_spectrum: 0.7767984247766435
+typography_spectrum: 0.860568261006847
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd7a735-6769-48c1-beba-95432a5da4e8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd7a735-6769-48c1-beba-95432a5da4e8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/018d0272-4b24-4136-8643-6e67a9561eef.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/018d0272-4b24-4136-8643-6e67a9561eef.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/65ab5ae8-432d-44e0-a79b-5dc9f659cf04.png
+author:
+  name: Vaughn Ragland
+  email: info@resophotography.com
+  url: 'http://www.resophotography.com'
+title: RESO
+description: Professional Photographer
+github: true
